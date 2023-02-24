@@ -1,0 +1,28 @@
+.carousel-ctrl-btn {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 9;
+  color: #ddd;
+}
+
+.left-btn {
+  left: 0;
+}
+
+.right-btn {
+  right: 0;
+}
+
+.project-title {
+  font-size: larger;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.project-description {
+  padding: 1rem;
+  text-align: left;
+  text-align: justify;
+}
